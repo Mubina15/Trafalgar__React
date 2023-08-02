@@ -440,6 +440,7 @@ main {
 }
 
 .affordable {
+    font-family: "Mulish";
     width: 391px;
     color: white;
 }
@@ -457,6 +458,7 @@ main {
 
 .pty {
     color: #FFFFFF;
+    font-family: "Mulish";
 }
 
 .list {
@@ -473,11 +475,13 @@ main {
     text-decoration: none;
     color: #FFFFFF;
     opacity: 0.5;
+    font-family: "Mulish";
 }
 
 .company {
     text-decoration: none;
     color: #FFFFFF;
+    font-family: "Mulish";
 }
 
 .Footer_Logo {
